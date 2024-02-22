@@ -1,5 +1,4 @@
-﻿// First we create the variables that we will need for this project
-string studentName = "Sophia Johnson";
+﻿string studentName = "Sophia Johnson";
 string course1Name = "English 101";
 string course2Name = "Algebra 101";
 string course3Name = "Biology 101";

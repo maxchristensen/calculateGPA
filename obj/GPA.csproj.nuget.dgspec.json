@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "g:\\GPA\\GPA.csproj": {}
+    "G:\\GPA\\GPA.csproj": {}
   },
   "projects": {
-    "g:\\GPA\\GPA.csproj": {
+    "G:\\GPA\\GPA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "g:\\GPA\\GPA.csproj",
+        "projectUniqueName": "G:\\GPA\\GPA.csproj",
         "projectName": "GPA",
-        "projectPath": "g:\\GPA\\GPA.csproj",
+        "projectPath": "G:\\GPA\\GPA.csproj",
         "packagesPath": "C:\\Users\\Max Christensen\\.nuget\\packages\\",
-        "outputPath": "g:\\GPA\\obj\\",
+        "outputPath": "G:\\GPA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max Christensen\\AppData\\Roaming\\NuGet\\NuGet.Config"
