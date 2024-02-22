@@ -1,0 +1,14 @@
+g:\GPA\bin\Debug\net8.0\GPA.exe
+g:\GPA\bin\Debug\net8.0\GPA.deps.json
+g:\GPA\bin\Debug\net8.0\GPA.runtimeconfig.json
+g:\GPA\bin\Debug\net8.0\GPA.dll
+g:\GPA\bin\Debug\net8.0\GPA.pdb
+g:\GPA\obj\Debug\net8.0\GPA.GeneratedMSBuildEditorConfig.editorconfig
+g:\GPA\obj\Debug\net8.0\GPA.AssemblyInfoInputs.cache
+g:\GPA\obj\Debug\net8.0\GPA.AssemblyInfo.cs
+g:\GPA\obj\Debug\net8.0\GPA.csproj.CoreCompileInputs.cache
+g:\GPA\obj\Debug\net8.0\GPA.dll
+g:\GPA\obj\Debug\net8.0\refint\GPA.dll
+g:\GPA\obj\Debug\net8.0\GPA.pdb
+g:\GPA\obj\Debug\net8.0\GPA.genruntimeconfig.cache
+g:\GPA\obj\Debug\net8.0\ref\GPA.dll
